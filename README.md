@@ -6,3 +6,4 @@ Useful resources for Postgres
 - [Postgres Docs: Row estimation examples](https://www.postgresql.org/docs/current/row-estimation-examples.html)
 - https://repost.aws/knowledge-center/rds-aurora-postgresql-performance-issues
 - https://aws.amazon.com/blogs/database/tune-sorting-operations-in-postgresql-with-work_mem/
+- https://wiki.postgresql.org/wiki/Lock_Monitoring
