@@ -8,4 +8,5 @@ Useful resources for Postgres
 - https://aws.amazon.com/blogs/database/tune-sorting-operations-in-postgresql-with-work_mem/
 - https://wiki.postgresql.org/wiki/Lock_Monitoring
 - https://catalog.workshops.aws/pgpeformance/en-US/tuning-fundamentals
-- https://www.youtube.com/watch?v=OL8up-9Kda8
+- [Postgres Planner Quirks: The impact of ORDER BY + LIMIT on index usage
+](https://www.youtube.com/watch?v=OL8up-9Kda8)
