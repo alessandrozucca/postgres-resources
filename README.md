@@ -10,3 +10,4 @@ Useful resources for Postgres
 - https://catalog.workshops.aws/pgpeformance/en-US/tuning-fundamentals
 - [Postgres Planner Quirks: The impact of ORDER BY + LIMIT on index usage
 ](https://www.youtube.com/watch?v=OL8up-9Kda8)
+- - https://gocardless.com/blog/debugging-the-postgres-query-planner/
